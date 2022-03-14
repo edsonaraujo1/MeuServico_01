@@ -1,0 +1,10 @@
+Instalar Serviço
+InstallUtil.exe C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319>InstallUtil.exe C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe
+
+Remover Serviço
+C:\Windows\system32>Sc delete NOMESERVICO
+
+
+C:\Projetos\AdvClipLaundering\AdvClipLaundering\Fontes\AdvClipLaunderingAdm\AdvClipLaunderingAdm\paginas\Acesso.aspx.cs:line 82

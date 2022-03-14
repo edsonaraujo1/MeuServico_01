@@ -1,0 +1,13 @@
+C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe.config
+C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe
+C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.pdb
+C:\Shared\Dev\MeuServico_1\obj\Debug\MeuServico_1.csproj.AssemblyReference.cache
+C:\Shared\Dev\MeuServico_1\obj\Debug\MeuServico_1.ProjectInstaller.resources
+C:\Shared\Dev\MeuServico_1\obj\Debug\MeuServico_1.csproj.GenerateResource.cache
+C:\Shared\Dev\MeuServico_1\obj\Debug\MeuServico_1.csproj.CoreCompileInputs.cache
+C:\Shared\Dev\MeuServico_1\obj\Debug\MeuServico_1.exe
+C:\Shared\Dev\MeuServico_1\obj\Debug\MeuServico_1.pdb
+C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe.manifest
+C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.application
+C:\Shared\Dev\MeuServico_1\obj\Debug\MeuServico_1.exe.manifest
+C:\Shared\Dev\MeuServico_1\obj\Debug\MeuServico_1.application

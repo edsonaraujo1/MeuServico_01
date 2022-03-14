@@ -1,0 +1,39 @@
+﻿Instalando o assembly 'C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe
+   logfile = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe
+   logfile = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe
+   logfile = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe
+   logfile = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe
+   logfile = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.InstallLog
+Instalando o serviço MeuServico1...
+Serviço MeuServico1 foi instalado com êxito.
+Criando a origem de EventLog MeuServico1 no log Application...
+Confirmando o assembly 'C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.exe
+   logfile = C:\Shared\Dev\MeuServico_1\bin\Debug\MeuServico_1.InstallLog
